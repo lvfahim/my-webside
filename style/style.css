@@ -1,4 +1,17 @@
 .into{
-    color: darkblue;
+    color:skyblue;
     border-style:solid;
+}
+.itachi{
+    background-color: brown;
+    background-image: url(../img/Uchiha.jpeg);
+    border-radius: 35px;
+}
+.h3{
+    color: gold;
+    background-color: beige; 
+    width: 250px;
+}
+.la{
+    color:skyblue;
 }
