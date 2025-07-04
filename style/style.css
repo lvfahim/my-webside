@@ -23,3 +23,8 @@
 .animewordcoler{
     color: steelblue;
 }
+.friendf{
+    display: flex;
+    justify-content: first baseline;
+    margin: 10px;   
+}
