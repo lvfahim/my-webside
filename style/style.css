@@ -15,3 +15,11 @@
 .la{
     color:skyblue;
 }
+.anime{
+    display: flex;
+    justify-content: first baseline;
+    margin: 10px;
+}
+.animewordcoler{
+    color: steelblue;
+}
